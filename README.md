@@ -33,5 +33,5 @@
 > package with pyinstaller
 ```shell script
 # python -m vefui <app_dir> <web_dir>
-python -m vefui example\hello.py vle\dist
+python -m vefui example\hello.py vefui\dist
 ```
